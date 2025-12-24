@@ -1,4 +1,4 @@
-# CRablang wrAPper Generator
+# CRablang wrAPper GENerator
 
 ## Credits to
 - [MavenLin](https://github.com/mavenlin)
